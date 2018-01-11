@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="a.a.commcomponent">
+
+    <application android:theme="@style/comm_AppTheme">
+
+        <activity android:name=".MainActivity"></activity>
+
+    </application>
+
+</manifest>
